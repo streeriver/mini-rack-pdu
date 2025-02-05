@@ -9,7 +9,7 @@ I am currently working on the design and will upload files as they are available
 - [ ] Home Assistant Integration
 
 BOM
-- 8 panel mount outlets (https://a.co/d/97mr5YT)
+- 8 panel mount outlets (<a >https://a.co/d/97mr5YT</a>)
 - Power in C14 plug (https://a.co/d/73B9O7r)
 - Relay board (https://a.co/d/4Hwa2Mm)
 - esp32 WT32-ETH01 (https://a.co/d/eftOV7s)
