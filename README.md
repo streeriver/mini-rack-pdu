@@ -22,6 +22,7 @@ To-Do
 BOM
 - 8 panel mount outlets (<a >https://a.co/d/97mr5YT</a>)
 - Power in C14 plug (https://a.co/d/73B9O7r)
+- Main power switch/circuit breaker. (https://www.mouser.com/ProductDetail/562-736W-B-301)
 - Relay board (https://a.co/d/4Hwa2Mm)
 - Current measuring ACS758 (https://a.co/d/4qGEHbB)
 - esp32 WT32-ETH01 (https://a.co/d/eftOV7s) (ethernet drawing https://www.huilyn.com/enus/detail_305_1887.html)
