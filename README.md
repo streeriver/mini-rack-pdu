@@ -1,12 +1,23 @@
 # mini rack pdu
-A 10" rack mount AC power distribution unit with remote control and power monitoring via esp32. 
-I am currently working on the design and will upload files as they are available. 
-- [ ] Surge Protection
-- [ ] Current Protection
-- [ ] Switchable Outlets
-- [ ] Current Monitoring
-- [ ] Web Interface
-- [ ] Home Assistant Integration
+An inexpensive 10" rack mount AC power distribution unit with remote control and power monitoring via esp32. 
+<p float="left">
+  <img src="images/pdu_front.jpg" width="48%" />
+  <img src="images/pdu_back.jpg" width="48%" />
+</p>
+
+Features
+- Current Protection
+- Current Monitoring
+- Switchable Outlets (physical buttons and remote control)
+- Web Interface
+- Home Assistant Integration
+
+To-Do
+- [ ] Build
+- [ ] Write software
+  - [ ] Control logic
+  - [ ] Web interface
+  - [ ] API
 
 BOM
 - 8 panel mount outlets (<a >https://a.co/d/97mr5YT</a>)
