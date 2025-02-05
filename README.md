@@ -23,8 +23,10 @@ BOM
 - 8 panel mount outlets (<a >https://a.co/d/97mr5YT</a>)
 - Power in C14 plug (https://a.co/d/73B9O7r)
 - Relay board (https://a.co/d/4Hwa2Mm)
+- Current measuring ACS758 (https://a.co/d/4qGEHbB)
 - esp32 WT32-ETH01 (https://a.co/d/eftOV7s) (ethernet drawing https://www.huilyn.com/enus/detail_305_1887.html)
 - I2c gpio extender (https://www.adafruit.com/product/5346)
 - Push buttons (https://a.co/d/blETPMN)
 - Leds
+- Power board for esp32 and relays. (https://a.co/d/7kuPYSm)
 - 3d printed case
