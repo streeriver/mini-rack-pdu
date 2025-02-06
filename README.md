@@ -20,14 +20,17 @@ To-Do
   - [ ] API
 
 BOM
-- 8 panel mount outlets (<a >https://a.co/d/97mr5YT</a>)
-- Power in C14 plug (https://a.co/d/73B9O7r)
-- Main power switch/circuit breaker. (https://www.mouser.com/ProductDetail/562-736W-B-301)
-- Relay board (https://a.co/d/4Hwa2Mm)
-- Current measuring ACS758 (https://a.co/d/4qGEHbB)
-- esp32 WT32-ETH01 (https://a.co/d/eftOV7s) (ethernet drawing https://www.huilyn.com/enus/detail_305_1887.html)
-- I2c gpio extender (https://www.adafruit.com/product/5346)
-- Push buttons (https://a.co/d/blETPMN)
+- 8 panel mount outlets (<a href="https://a.co/d/97mr5YT">Amazon</a>)
+- Power in C14 plug (<a href="https://a.co/d/73B9O7r">Amazon</a>)
+- Main power switch/circuit breaker. (<a href="https://www.mouser.com/ProductDetail/562-736W-B-301">Mouser</a>)
+- Relay board (<a href="https://a.co/d/4Hwa2Mm">Amazon</a>)
+- Current measuring ACS758 (<a href="https://a.co/d/4qGEHbB">Amazon</a>)
+- esp32 WT32-ETH01 (<a href="https://a.co/d/eftOV7s">Amazon</a>) (<a href="https://www.huilyn.com/enus/detail_305_1887.html">ethernet port dimensions</a>)
+- I2c gpio extender (<a href="https://www.adafruit.com/product/5346">Adafruit</a>)
+- Push buttons (<a href="https://a.co/d/blETPMN">Amazon</a>)
 - Leds
-- Power board for esp32 and relays. (https://a.co/d/7kuPYSm)
+- Power board for esp32 and relays. (<a href="https://a.co/d/7kuPYSm">Amazon</a>)
 - 3d printed case
+
+References
+- <a href="https://www.ti.com/lit/pdf/slvae37">How to select a Surge Diode</a> 
